@@ -1,6 +1,6 @@
-/**
+#include<stdio.h>/**
  *main - Entry point
- *Description: 'Check for positive ngative or zero'
+ *Description: 'print alphabets in reverse'
  *Return: always 0
  */
 int main(void)
@@ -13,5 +13,5 @@ int main(void)
 		n--;
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
