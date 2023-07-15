@@ -1,4 +1,5 @@
-#include<stdio.h>/**
+#include<stdio.h>
+/**
  *main - Entry point
  *Description: 'print alphabets in reverse'
  *Return: always 0
