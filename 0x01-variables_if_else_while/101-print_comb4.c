@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
 *main - Entry point
 *Description: print all possible different combination of three digits
