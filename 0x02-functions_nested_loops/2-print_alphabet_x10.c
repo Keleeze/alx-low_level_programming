@@ -1,14 +1,13 @@
 #include "main.h"
 /**
- * main - Entry point
- * Description: 'print 10 times the alphabet in lowercase'
- * Return: always 0
+ * print_alphabet_x10 - print 10 times the alphabet in lowercase
+ *
+ * follwed by a new line
  */
-void printf_alphabet_x10(void)
+void print_alphabet_x10(void)
 {
 	char ch;
 	int i;
-
 	i = 0;
 
 	while (i < 10)
@@ -22,5 +21,4 @@ void printf_alphabet_x10(void)
 		_putchar('\n');
 		i++;
 	}
-
 }
