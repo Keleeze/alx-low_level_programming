@@ -1,6 +1,3 @@
-4-new_dog.c CODE
-
-
 #include <stdlib.h>
 	#include "dog.h"
 
